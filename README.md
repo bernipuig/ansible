@@ -1,4 +1,3 @@
 # ansible
 
-hola
 
